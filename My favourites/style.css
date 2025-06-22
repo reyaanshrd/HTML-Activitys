@@ -1,0 +1,18 @@
+h1 {
+    color: rgb(6, 168, 255);
+    font-family: 'Courier New', Courier, monospace;
+}
+body {
+    background-color: gray;
+    text-align: center ;
+}
+img {
+    width: 250px;
+    height: 150px;
+}
+p {
+    color: rgb(255, 255, 255);
+}
+h2 {
+    color: rgb(255, 255, 255);
+}
