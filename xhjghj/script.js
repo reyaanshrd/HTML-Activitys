@@ -1,0 +1,8 @@
+var r = parseInt(window.prompt("Enter the number 1"))
+var asdfgh = parseInt(window.prompt("enter the number 2"))
+alert (r + asdfgh)
+alert (r-asdfgh)
+alert (r*asdfgh)
+alert(r/asdfgh)
+alert ("square:"+r*r)
+alert ("cube:"+asdfgh*asdfgh*asdfgh)

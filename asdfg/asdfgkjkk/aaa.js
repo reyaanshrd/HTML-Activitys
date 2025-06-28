@@ -1,0 +1,7 @@
+var a = parseInt(window.prompt ("marks in english"))
+var b = parseInt(window.prompt ("marks in math"))
+var c = parseInt(window.prompt ("marks in science"))
+var d = parseInt(window.prompt ("marks in computer science"))
+var e = parseInt(window.prompt ("marks in history"))
+alert ("total marks: " + (a+b+c+d+e))
+alert ("percentage = " + ((a+b+c+d+e)/5)+"%")
